@@ -9,3 +9,7 @@ Página responsiva fictícia sobre uma agência de serviços chamada XYZ, projet
 
 ### Mobile 425px
 ![XYZ-3](https://user-images.githubusercontent.com/117459142/207440390-17c81a63-59be-4559-8282-86e3e22d567a.gif)
+
+## Tecnologias utilizadas
+- HTML
+- CSS
